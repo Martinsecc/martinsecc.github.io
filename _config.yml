@@ -1,1 +1,5 @@
-title: Martin's Cyber Blog
+
+title: "From 0 to OSCP"
+baseurl: ""
+url: "https://martinsecc.github.io"
+theme: minima
