@@ -25,5 +25,7 @@ I think there is quite a large gap between the novice skills eJPT V2 teaches you
 
 Then find a job, make a lot of money, buy a mansion? Who knows, hope you enjoy the journey along with me.
 
-![CompTIA logo](https://infocerts.com/wp-content/uploads/2023/04/CompTIA_security-plus-logoSITE.jpg)
+<p style="text-align: center; margin-top: 2rem;">
+  <img src="https://infocerts.com/wp-content/uploads/2023/04/CompTIA_security-plus-logoSITE.jpg" alt="CompTIA logo" style="max-width: 100%; height: auto;">
+</p>
 
