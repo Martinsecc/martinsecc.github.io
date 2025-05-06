@@ -1,6 +1,14 @@
 ---
-layout: home
+layout: default
 title: ""
 ---
 
-![From 0 to OSCP](/assets/images/header.jpg){:style="width:100%;height:auto;margin-bottom:2rem;"}
+<ul class="post-list">
+  {% for post in site.posts %}
+    <li>
+      <span>{{ post.date | date: "%Y-%m-%d" }}</span> – 
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+

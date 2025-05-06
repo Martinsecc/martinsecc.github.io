@@ -1,27 +1,47 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
-    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
-  </head>
-  <body>
-    <header>
-      <a href="{{ "/" | relative_url }}">
-        <img src="/assets/images/header.jpg" alt="From 0 to OSCP" style="width:100%;height:auto;">
-      </a>
-    </header>
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </main>
-    <footer class="site-footer">
-      <div class="wrapper">
-        <p>&copy; {{ site.time | date: "%Y" }} Martinsecc</p>
-      </div>
-    </footer>
-  </body>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      background-color: #121212;
+      color: #e0e0e0;
+      font-family: sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    a {
+      color: #64b5f6;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .banner img {
+      width: 100%;
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 0 auto;
+    }
+    .content {
+      max-width: 900px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="banner">
+    <a href="{{ "/" | relative_url }}">
+      <img src="{{ "/assets/images/header.jpg" | relative_url }}" alt="Header image">
+    </a>
+  </div>
+  <div class="content">
+    {{ content }}
+  </div>
+</body>
 </html>
+
