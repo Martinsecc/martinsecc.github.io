@@ -5,25 +5,35 @@ date: 2025-05-05 18:00:00 +0800
 categories: learning
 ---
 
-For a couple years I spent my time doing the most risky thing I ever did in my life, trading crypto, degening to be more precise on defi protocols. It was fun, it was bad, it was a lot of stress and a lot of fun, it allowed me to try new things, travel, but it also gave a lot of worry because you have no clue what tomorrow might bring. Now, as the markets are tanking because of tarrifs and whatnot it seemed like the best moment to step away from it But crypto left in me a deep love of the digital world and an acute awareness of the risks associated with it.
+## From DeFi Degen to Aspiring Pentester
 
-Scamming is a daily occurrence in defi. You have to always be aware of what can happen, distrust everything and sometimes take a chance against better knowledge. It is that skeptic attitude that I felt could come of use when a friend of mine suggested I should try getting into cybersecurity. So I went on, applied for positions, but I noticed quickly that without certificates I would be nowhere. I tried practicing on my own the terminology and skills needed to perform in an interview, but a few tryhackme lessons later I still did not ace those. So instead I decided to get myself certified, the end goal was always to get certified to pentest since this sounds like the most interesting job to me.
+For a couple of years, I immersed myself in what’s arguably the riskiest thing I’ve ever done: trading crypto. More specifically, I spent my days degening around in DeFi protocols. It was chaotic, intense, and honestly, often fun. I gained the freedom to explore the world and try new things, but it came with constant uncertainty. When markets began to tank due to tariffs and broader economic instability, I knew it was time to step away.
 
-My goal is as follows, spend every day full time on learning myself the skills needed to finally get OSCP:
+What stuck with me, though, was a deep appreciation for the digital world and a strong sense of just how vulnerable it can be. In DeFi, scams are a daily reality. You learn to question everything, double-check every transaction, and still get caught off guard. That cautious mindset, oddly enough, planted the seed for a shift in direction.
 
-Start with security + by comptia, which I already completed in two weeks time (though I spent some time researching networking for my job applications prior to that)
+A friend suggested I explore cybersecurity. The more I thought about it, the more it made sense. I started applying to roles, only to find out that without certifications, I wouldn’t get far. I tried brushing up on the basics myself — networking, protocols, some TryHackMe labs — but I wasn’t landing interviews.
 
-This is to gain basic knowledge. The test itself was not too hard, but it does familiarize yourself with basic concepts of cybersecurity. And it gives you a whole picture. Also it was for me a test to see how fast I can absorb this new info.
+So I changed my approach.
 
-Learn eJPT v2 and pass this
+## My Plan
 
-eJPT has been touted as a good beginner certificate. While I am not looking to gain a job with it specifically, I want to use it as a stepping stone and test of my skills, get familiar with concepts in pentesting and learn what I need to learn.
+I'm now dedicating myself full time to learning the skills required for OSCP (Offensive Security Certified Professional), my end goal.
 
-Perform an analysis on the gap between the skills I gained from eJPT V2 and what I need for OSCP
+1. **Start with Security+ (done):**  
+   I passed CompTIA Security+ in two weeks. It wasn’t too difficult, but it gave me a solid foundation and confirmed that I can absorb technical material quickly. It also helped structure my understanding of core cybersecurity concepts.
 
-I think there is quite a large gap between the novice skills eJPT V2 teaches you and what you need for OSCP, so I will perform an analysis of where I need to be for OSCP. I do not think I want to do another certificate in between because those are not my end goal.
+2. **Next up: eJPT v2:**  
+   Widely considered a solid beginner cert for aspiring pentesters, eJPT v2 will give me hands-on experience and expose gaps in my practical knowledge.
 
-Then find a job, make a lot of money, buy a mansion? Who knows, hope you enjoy the journey along with me.
+3. **Bridge the gap to OSCP:**  
+   After eJPT, I’ll assess what I’m still missing and focus exclusively on bridging that gap. I’m not planning to collect more certifications just for the sake of it. OSCP is the goal, and every step I take is meant to lead there.
+
+## And Then?
+
+Hopefully, I’ll find a role where I can apply what I’ve learned, keep growing, and earn a living doing something I actually enjoy and that won't lead to sleepless nights.
+
+In the meantime, I’m documenting my journey here, not just for myself, but for anyone curious about going from 0 to OSCP.
+
 
 <p style="text-align: center; margin-top: 2rem;">
   <img src="https://infocerts.com/wp-content/uploads/2023/04/CompTIA_security-plus-logoSITE.jpg" alt="CompTIA logo" style="max-width: 100%; height: auto;">
