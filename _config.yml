@@ -1,10 +1,5 @@
-title: From 0 to OSCP
-description: From full time degen to OSCP
+
+title: "From 0 to OSCP"
 baseurl: ""
 url: "https://martinsecc.github.io"
 theme: minima
-header_image: /assets/images/header.jpg
-
-minima:
-  skin: dark
-  social_links: []
