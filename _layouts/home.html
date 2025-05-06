@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ page.title }}</title>
+    <style>
+      body { font-family: Times New Roman, serif; background-color: #111; color: #ddd; text-align: center; margin: 0; }
+      .header-img { width: 100%; max-height: 400px; object-fit: cover; }
+      .content { padding: 20px; }
+    </style>
+  </head>
+  <body>
+    <img src="/assets/img/header.jpg" class="header-img" alt="Header">
+    <div class="content">
+      {{ content }}
+    </div>
+  </body>
+</html>
